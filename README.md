@@ -11,37 +11,21 @@ This repository contains three programming homework assignments covering fundame
 
 ---
 
-## Repository Structure
-
-```
-BioInformatics_PHW_Fall-2024/
-├── BioInformatics_PHW_NeighborJoining_Fall_2024/      # HW: Neighbor Joining algorithm
-├── BioInformatics_PHW_Query_Fall_2024/                # HW: Biological database queries
-└── BioInformatics_PHW_SequenceAlignment_Fall_2024/    # HW: Sequence alignment algorithms
-```
-
----
 
 ## Assignments
 
-### `BioInformatics_PHW_SequenceAlignment_Fall_2024/` — Sequence Alignment
+### `SequenceAlignment_Fall_2024/` — Sequence Alignment
 Implementation of pairwise sequence alignment algorithms:
 - **Needleman-Wunsch**: global alignment using dynamic programming
 - **Smith-Waterman**: local alignment for finding conserved regions
 - Custom scoring matrices (match, mismatch, gap penalty)
 - Alignment visualization and score analysis
 
-### `BioInformatics_PHW_NeighborJoining_Fall_2024/` — Neighbor Joining
+### `NeighborJoining_Fall_2024/` — Neighbor Joining
 Distance-based phylogenetic tree construction:
 - Computation of pairwise distance matrices from aligned sequences
 - Implementation of the Neighbor Joining (NJ) algorithm
 - Tree visualization and interpretation of evolutionary relationships
-
-### `BioInformatics_PHW_Query_Fall_2024/` — Biological Database Querying
-Programmatic access to biological databases:
-- Querying NCBI Entrez databases (GenBank, PubMed) via Biopython
-- Retrieving and parsing sequence records in FASTA / GenBank format
-- Automating data retrieval pipelines for downstream analysis
 
 ---
 
