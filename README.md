@@ -191,9 +191,6 @@ Traceback from best score in last row of sequence 2 (semi-global)
 | **Semester** | Fall 2024 |
 | **Language** | Python |
 | **Prerequisites** | Data Structures, Algorithms, Basic Biology |
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=100&section=footer" width="100%"/>
 </div>
