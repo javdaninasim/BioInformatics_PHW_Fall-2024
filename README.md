@@ -182,7 +182,7 @@ Traceback from best score in last row of sequence 2 (semi-global)
 
 ---
 
-### 📞 Course Information
+### ℹ️ Course Information
 
 | Detail | Information |
 | :--- | :--- |
@@ -191,16 +191,6 @@ Traceback from best score in last row of sequence 2 (semi-global)
 | **Semester** | Fall 2024 |
 | **Language** | Python |
 | **Prerequisites** | Data Structures, Algorithms, Basic Biology |
-
----
-
-### 📜 License & Attribution
-
-This repository contains course assignments from **Sharif University of Technology**.
-
-**Author:** Nasim Javdani  
-**GitHub:** [@javdaninasim](https://github.com/javdaninasim)  
-**LinkedIn:** [Nasim Javdani](https://linkedin.com/in/nasim-javdani-810a9932a)
 
 ---
 
