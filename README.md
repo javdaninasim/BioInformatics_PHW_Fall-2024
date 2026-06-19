@@ -3,9 +3,6 @@
 <h1 align="center">🧬 Bioinformatics — Fall 2024</h1>
 <h3 align="center">Programming Homework Assignments | Sharif University of Technology</h3>
 
-<p align="center">
-  <i>"Decoding the language of life through computational algorithms and sequence analysis."</i>
-</p>
 
 [**GitHub**](https://github.com/javdaninasim/BioInformatics_PHW_Fall-2024) &nbsp; ⬩ &nbsp; [**University**](https://sharif.edu/)
 
