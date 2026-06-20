@@ -118,29 +118,6 @@ BioInformatics_PHW_Fall-2024/
 
 ---
 
-### 🚀 Quick Start
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/javdaninasim/BioInformatics_PHW_Fall-2024.git
-cd BioInformatics_PHW_Fall-2024
-
-# 2. Run Sequence Alignment
-python SequenceAlignment/sequence_alignment.py
-# Input: Two sequences (one per line)
-# Example:
-# AGGTCGA
-# AGGTACA
-
-# 3. Run Neighbor Joining
-python NeighborJoining/neighbor_joining.py
-# Input: 
-#   Line 1: number of sequences (n)
-#   Lines 2 to n+1: distance matrix (n x n)
-```
-
----
-
 ### 💡 Algorithm Details
 
 #### Sequence Alignment Scoring
